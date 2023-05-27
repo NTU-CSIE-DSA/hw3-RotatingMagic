@@ -71,6 +71,7 @@ int main() {
         intv[intvsz][1] = r - m + 1;
         intvsz++;
     }
+    //sort and merge and count total len
     qsort(intv , intvsz, sizeof(int)*2 , cmp);
     int R = 0;
     for(int i=0;i<intvsz;i++){
