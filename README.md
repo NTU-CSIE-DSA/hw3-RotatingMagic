@@ -109,7 +109,7 @@ This interval problem can also be solved in $O(n)$ time by **Difference array**.
 ## Solution
 [Source Code - Rabin-Karp](./solution/rabin_karp.c)
 
-[Source Code - Z algorithm](./solution/zalgo.c)
+[Source Code - Z algorithm](./solution/zalgo2.c)
 
 ## Wrong Answer: KMP
 
